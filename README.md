@@ -1,5 +1,5 @@
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=JuanDres7)
+![Profile Views](https://komarev.com/ghpvc/?username=JuanDres7&color=00d9ff&style=flat-square)
 </div>
 
 <div align="center">
