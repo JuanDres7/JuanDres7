@@ -7,10 +7,9 @@
 </div>
 
 ---
-
-## 🤖 Tech Stack
-
 <div align="center">
+    
+## Tech and Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,mysql)](https://skillicons.dev)
 
@@ -18,7 +17,7 @@
 
 ```python
 juan = {
-    "role":       "Student Engineer + IEEE Leader",
+    "education / roles":       "System Engineering Student + IEEE Computer Society Chair",
     "location":   "Barranquilla, Colombia 🌊",
     "languages":  ["Python", "Java", "SQL"],
     "interests":  ["AI tools", "PC hardware", "community building"],
