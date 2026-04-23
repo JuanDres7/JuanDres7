@@ -26,27 +26,13 @@ juan = {
 
 ---
 
-## 🚀 Featured Projects
-
-> *Repos coming soon — stay tuned or check my pinned repos below 👇*
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧮 **Lagrange Interpolation** | Numerical methods implementation with full step-by-step output | Python |
-| 🏪 **Data Warehouse — Supermercado** | Star schema DW design with SQL views & restricted users | MySQL |
-| 🎨 **IEEE Unilibre Brand System** | Complete brand identity system for 5 IEEE chapters | Design |
-| 🤖 **Vibe Coding Challenge** | AI-assisted coding event for engineering students | Org + Tech |
-
----
-
-## 📡 Let's Connect
+## Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![IEEE](https://img.shields.io/badge/IEEE_CS_Chapter-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieee.org)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/juan-andres-mercado-alarcon-266743370/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanDres7)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanandresmercadoalarcom@gmail.com)
 
 </div>
 
