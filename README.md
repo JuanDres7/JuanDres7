@@ -18,11 +18,9 @@
 
 ```python
 juan = {
-    "education / roles":       "System Engineering Student + IEEE Computer Society Chair",
-    "location":   "Barranquilla, Colombia 🌊",
-    "languages":  ["Python", "Java", "SQL"],
-    "interests":  ["AI tools", "PC hardware", "community building"],
-    "currently":  "Organizing vibe coding challenges for engineers 🎯"
+    "education / roles":  "System Engineering Student + IEEE Computer Society Chair",
+    "location":   "Barranquilla, Colombia",
+    "interests":  ["AI tools", "Project Managment"],
 }
 ```
 
