@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=2000&width=435&lines=Software+Developer+and+Data+Analyst;Student+at+Unilibre+Barranquilla;Always+learning+and+developing.)](https://git.io/typing-svg)
 
-
 </div>
 
 ---
+
 <div align="center">
     
 ## Tech and Skills
