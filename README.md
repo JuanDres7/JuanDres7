@@ -1,4 +1,8 @@
 <div align="center">
+![](https://komarev.com/ghpvc/?username=JuanDres7)
+</div>
+
+<div align="center">
 
 ### `< Systems Engineering Student />`
 
