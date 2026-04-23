@@ -16,8 +16,8 @@
 
 </div>
 
-```python
-myself = {
+```js
+const myself = {
     "education / roles":  "System Engineering Student + IEEE Computer Society Chair",
     "location":           "Barranquilla, Colombia",
     "interests":          ["AI tools", "Project Managment"],
