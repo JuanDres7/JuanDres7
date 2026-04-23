@@ -42,6 +42,6 @@ juan = {
 
 *"The people who are crazy enough to think they can change the world are the ones who do."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=00d9ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=JuanDres7o&color=00d9ff&style=flat-square)
 
 </div>
