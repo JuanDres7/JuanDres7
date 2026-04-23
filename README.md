@@ -2,33 +2,17 @@
 
 ### `< Systems Engineering Student />`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Student+at+Universidad+Libre+Barranquilla;Python+%7C+Java+%7C+JS+%7C+SQL+Developer;Always+learning+and+developing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=2000&width=435&lines=Software+Developer+and+Data+Analyst;Student+at+Unilibre+Barranquilla;Always+learning+and+developing.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About Me
-
-Hey! I'm **Juan** — a systems engineering student based in **Barranquilla, Colombia 🇨🇴**, passionate about building things that actually work and organizing communities where people build together.
-
-- 🎓 Studying Systems Engineering @ **Universidad Libre de Barranquilla**
-- 🏛️ President of the **IEEE Computer Society** chapter — and active across RAS, WIE, SIGHT & SB
-- 🛠️ I love experimenting with code, hardware, and anything in between
-- 🤖 Currently exploring AI-assisted development (vibecoding ftw)
-- 💡 Believer that the best way to learn is to build, break, and build again
-
----
-
-## ⚡ Tech Stack
+## 🤖 Tech Stack
 
 <div align="center">
 
-| Language | Use Case |
-|----------|----------|
-| 🐍 **Python** | Scripting, data, automation, university projects |
-| ☕ **Java** | OOP, design patterns, backend fundamentals |
-| 🗄️ **SQL** | Database design, data warehousing, star schemas |
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,mysql)](https://skillicons.dev)
 
 </div>
 
