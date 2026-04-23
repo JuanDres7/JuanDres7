@@ -1,16 +1,88 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**JuanDres7/JuanDres7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+    ██╗██╗   ██╗ █████╗ ███╗   ██╗
+    ██║██║   ██║██╔══██╗████╗  ██║
+    ██║██║   ██║███████║██╔██╗ ██║
+██   ██║██║   ██║██╔══██║██║╚██╗██║
+╚█████╔╝╚██████╔╝██║  ██║██║ ╚████║
+ ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-Here are some ideas to get you started:
+### `< Engineering Student · IEEE Leader · Builder />`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Student+%40+Universidad+Libre+Barranquilla;President+%40+IEEE+Computer+Society;Python+%7C+Java+%7C+SQL+Developer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+Hey! I'm **Juan** — a systems engineering student based in **Barranquilla, Colombia 🇨🇴**, passionate about building things that actually work and organizing communities where people build together.
+
+- 🎓 Studying Systems Engineering @ **Universidad Libre de Barranquilla**
+- 🏛️ President of the **IEEE Computer Society** chapter — and active across RAS, WIE, SIGHT & SB
+- 🛠️ I love experimenting with code, hardware, and anything in between
+- 🤖 Currently exploring AI-assisted development (vibecoding ftw)
+- 💡 Believer that the best way to learn is to build, break, and build again
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+| Language | Use Case |
+|----------|----------|
+| 🐍 **Python** | Scripting, data, automation, university projects |
+| ☕ **Java** | OOP, design patterns, backend fundamentals |
+| 🗄️ **SQL** | Database design, data warehousing, star schemas |
+
+</div>
+
+```python
+juan = {
+    "role":       "Student Engineer + IEEE Leader",
+    "location":   "Barranquilla, Colombia 🌊",
+    "languages":  ["Python", "Java", "SQL"],
+    "interests":  ["AI tools", "PC hardware", "community building"],
+    "currently":  "Organizing vibe coding challenges for engineers 🎯"
+}
+```
+
+---
+
+## 🚀 Featured Projects
+
+> *Repos coming soon — stay tuned or check my pinned repos below 👇*
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🧮 **Lagrange Interpolation** | Numerical methods implementation with full step-by-step output | Python |
+| 🏪 **Data Warehouse — Supermercado** | Star schema DW design with SQL views & restricted users | MySQL |
+| 🎨 **IEEE Unilibre Brand System** | Complete brand identity system for 5 IEEE chapters | Design |
+| 🤖 **Vibe Coding Challenge** | AI-assisted coding event for engineering students | Org + Tech |
+
+---
+
+## 📡 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![IEEE](https://img.shields.io/badge/IEEE_CS_Chapter-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieee.org)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The people who are crazy enough to think they can change the world are the ones who do."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=00d9ff&style=flat-square)
+
+</div>
