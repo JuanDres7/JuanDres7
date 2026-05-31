@@ -13,7 +13,7 @@
     
 ## Tech and Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,mysql,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,mysql,supabase,postgre)](https://skillicons.dev)
 
 </div>
 
