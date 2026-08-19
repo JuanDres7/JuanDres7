@@ -13,7 +13,7 @@
     
 ## Tech and Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,python,java,mysql,supabase,postgresql,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,python,java,mysql,supabase,postgresql,rust,ts)](https://skillicons.dev)
 
 </div>
 
@@ -22,7 +22,6 @@ const myself = {
     "education / roles":  "System Engineering Student + IEEE Computer Society Chair",
     "location":           "Barranquilla, Colombia",
     "interests":          ["AI tools", "Project Managment", "Fullstack Development"],
-    "learning":           ["Typescript"]
 }
 ```
 
