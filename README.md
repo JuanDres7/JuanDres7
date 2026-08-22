@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="www.linkedin.com/in/juan-mercado-alarcon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/juan-mercado-alarcon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:juanandresmercadoalarcon@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -52,16 +52,7 @@ estudio:    Ingeniería · Universidad Libre · Miembro IEEE
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanDres7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=0EA5E9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDres7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=JuanDres7&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=0EA5E9&currStreakLabel=8B5CF6" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JuanDres7&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
