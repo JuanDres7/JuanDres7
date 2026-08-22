@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0EA5E9&height=200&section=header&text=Juana%20Mercado&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20%C2%B7%20Dise%C3%B1o%203D&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0EA5E9&height=200&section=header&text=Juan%20Mercado&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20%C2%B7%20Dise%C3%B1o%203D&descAlignY=55&descSize=18" width="100%" />
 
-<a href="https://github.com/TU-USUARIO">
+<a href="https://github.com/JuanDres7">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Estudiante+de+Ingenier%C3%ADa+%7C+Universidad+Libre;Python+%C2%B7+Flask+%C2%B7+Lua+%C2%B7+Blender;Construyo+cosas+que+se+usan%2C+no+solo+que+compilan" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:TU-CORREO"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/TU-USUARIO"><img src="https://img.shields.io/badge/Portafolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&color=8B5CF6&style=for-the-badge" />
+<a href="https://github.com/JuanDres7"><img src="https://img.shields.io/badge/Portafolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=JuanDres7&label=Visitas&color=8B5CF6&style=for-the-badge" />
 
 </div>
 
@@ -20,7 +20,7 @@
 ## 🧭 Sobre mí
 
 ```yaml
-nombre:     Juana Mercado
+nombre:     Juan Mercado
 ubicacion:  Colombia 🇨🇴
 estudio:    Ingeniería · Universidad Libre · Miembro IEEE
 haciendo:   Finzen — app de finanzas personales en Python
@@ -64,16 +64,16 @@ lema:       "Si no se entiende a la primera, todavía no está terminado"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=0EA5E9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanDres7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=0EA5E9&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDres7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=0EA5E9&currStreakLabel=8B5CF6" />
+<img src="https://streak-stats.demolab.com?user=JuanDres7&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=0EA5E9&currStreakLabel=8B5CF6" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=JuanDres7&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
@@ -84,14 +84,14 @@ lema:       "Si no se entiende a la primera, todavía no está terminado"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-snake.svg" />
-  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanDres7/JuanDres7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanDres7/JuanDres7/output/github-snake.svg" />
+  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/JuanDres7/JuanDres7/output/github-snake.svg" />
 </picture>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=0EA5E9&point=ffffff&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDres7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=0EA5E9&point=ffffff&area=true" width="100%" />
 
 </div>
 
