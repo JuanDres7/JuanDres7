@@ -1,35 +1,112 @@
 <div align="center">
 
-### `< Systems Engineering Student />`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0EA5E9&height=200&section=header&text=Juana%20Mercado&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20%C2%B7%20Dise%C3%B1o%203D&descAlignY=55&descSize=18" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=2000&width=435&lines=Software+Developer+and+Data+Analyst;Student+at+Unilibre+Barranquilla;Always+learning+and+developing.)](https://git.io/typing-svg)
+<a href="https://github.com/TU-USUARIO">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Estudiante+de+Ingenier%C3%ADa+%7C+Universidad+Libre;Python+%C2%B7+Flask+%C2%B7+Lua+%C2%B7+Blender;Construyo+cosas+que+se+usan%2C+no+solo+que+compilan" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-mercado-alarcon/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanandresmercadoalarcom@gmail.com)
+<br/>
 
-</div>
-
-<div align="center">
-    
-## Tech and Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,python,java,mysql,supabase,postgresql,rust,ts)](https://skillicons.dev)
+<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:TU-CORREO"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/TU-USUARIO"><img src="https://img.shields.io/badge/Portafolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&color=8B5CF6&style=for-the-badge" />
 
 </div>
 
-```js
-const myself = {
-    "education / roles":  "System Engineering Student + IEEE Computer Society Chair",
-    "location":           "Barranquilla, Colombia",
-    "interests":          ["AI tools", "Project Managment", "Fullstack Development"],
-}
+<br/>
+
+## 🧭 Sobre mí
+
+```yaml
+nombre:     Juana Mercado
+ubicacion:  Colombia 🇨🇴
+estudio:    Ingeniería · Universidad Libre · Miembro IEEE
+haciendo:   Finzen — app de finanzas personales en Python
+aprendiendo: Diseño de sistemas y modelado 3D paramétrico
+lema:       "Si no se entiende a la primera, todavía no está terminado"
 ```
 
----
+- 🧪 Me gusta el punto donde el **software** se cruza con lo **físico**: apps, juegos y piezas que terminan impresas en 3D.
+- 🎯 Actualmente puliendo **Finzen**, un dashboard de finanzas con Flask + SQLite + Chart.js.
+- 🌱 Explorando arquitectura de datos, testing automatizado y UI accesible.
+- 💬 Pregúntame sobre Python, Flask, Lua/Roblox o Blender.
+
+<br/>
+
+## 🛠️ Stack
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=JuanDres7&color=00d9ff&style=flat-square)
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Frameworks y herramientas
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
+<br/>
+
+## 📊 Estadísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=0EA5E9&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=0EA5E9&currStreakLabel=8B5CF6" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
+</div>
+
+<br/>
+
+## 🐍 Mis contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-snake.svg" />
+  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-snake.svg" />
+</picture>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=0EA5E9&point=ffffff&area=true" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 Frase del día
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
+
+**⭐ Si algún proyecto te sirve, una estrella siempre se agradece**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=120&section=footer" width="100%" />
+
+</div>
