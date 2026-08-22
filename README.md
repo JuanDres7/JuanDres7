@@ -87,16 +87,6 @@ estudio:    Ingeniería · Universidad Libre · Miembro IEEE
 
 <br/>
 
-<div align="center">
-
-### 💭 Frase del día
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/><br/>
-
-**⭐ Si algún proyecto te sirve, una estrella siempre se agradece**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=120&section=footer" width="100%" />
 
 </div>
