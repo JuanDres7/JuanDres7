@@ -8,30 +8,20 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:TU-CORREO"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/JuanDres7"><img src="https://img.shields.io/badge/Portafolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=JuanDres7&label=Visitas&color=8B5CF6&style=for-the-badge" />
+<a href="www.linkedin.com/in/juan-mercado-alarcon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:juanandresmercadoalarcon@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-## 🧭 Sobre mí
+## About Me
 
 ```yaml
 nombre:     Juan Mercado
 ubicacion:  Colombia 🇨🇴
 estudio:    Ingeniería · Universidad Libre · Miembro IEEE
-haciendo:   Finzen — app de finanzas personales en Python
-aprendiendo: Diseño de sistemas y modelado 3D paramétrico
-lema:       "Si no se entiende a la primera, todavía no está terminado"
 ```
-
-- 🧪 Me gusta el punto donde el **software** se cruza con lo **físico**: apps, juegos y piezas que terminan impresas en 3D.
-- 🎯 Actualmente puliendo **Finzen**, un dashboard de finanzas con Flask + SQLite + Chart.js.
-- 🌱 Explorando arquitectura de datos, testing automatizado y UI accesible.
-- 💬 Pregúntame sobre Python, Flask, Lua/Roblox o Blender.
 
 <br/>
 
