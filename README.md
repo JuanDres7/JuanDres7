@@ -29,7 +29,10 @@ education:  Engineering · Universidad Libre · IEEE Member
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwindcss" alt="HTML, CSS, JavaScript, React, Vite, Tailwind CSS" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=python,java" alt="Python, Java" />
+
+### Frameworks
+<img src="https://skillicons.dev/icons?i=flask,fastapi,django" alt="Flask, FastAPI, Django" />
 
 ### Databases & SaaS
 <img src="https://skillicons.dev/icons?i=postgresql,supabase,sqlite,mysql" alt="PostgreSQL, Supabase, SQLite, MySQL" />
