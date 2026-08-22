@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:EA580C,100:DC2626&height=200&section=header&text=Juan%20Mercado&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20%C2%B7%20Dise%C3%B1o%203D&descAlignY=55&descSize=18" width="100%" />
-
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:EA580C,100:DC2626&height=200&section=header&text=Juan%20Mercado&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineering%20%C2%B7%20Software%20Development&descAlignY=55&descSize=18" width="100%" />
 
 <br/>
 
@@ -16,18 +14,18 @@
 ## About Me
 
 ```yaml
-nombre:     Juan Mercado
-ubicacion:  Colombia 🇨🇴
-estudio:    Ingeniería · Universidad Libre · Miembro IEEE
+name:       Juan Mercado
+location:   Colombia
+education:  Engineering · Universidad Libre · IEEE Member
 ```
 
 <br/>
 
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
-### Lenguajes
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
@@ -35,20 +33,18 @@ estudio:    Ingeniería · Universidad Libre · Miembro IEEE
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Frameworks y herramientas
+### Frameworks & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 <br/>
 
-## 📊 Estadísticas
+## Statistics
 
 <div align="center">
 
@@ -58,21 +54,19 @@ estudio:    Ingeniería · Universidad Libre · Miembro IEEE
 
 <br/>
 
-## 🐍 Mis contribuciones
+## Contributions
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanDres7/JuanDres7/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanDres7/JuanDres7/output/github-snake.svg" />
-  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/JuanDres7/JuanDres7/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/JuanDres7/JuanDres7/output/github-snake.svg" />
 </picture>
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDres7&hide_border=true&bg_color=0D1117&color=F97316&line=DC2626&point=FFFFFF&area=true&area_color=F97316&title_color=F97316" width="100%" />
-
-</div>
 
 <br/>
 
