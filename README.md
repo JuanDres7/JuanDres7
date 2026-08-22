@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0EA5E9&height=200&section=header&text=Juan%20Mercado&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20%C2%B7%20Dise%C3%B1o%203D&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:EA580C,100:DC2626&height=200&section=header&text=Juan%20Mercado&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20%C2%B7%20Dise%C3%B1o%203D&descAlignY=55&descSize=18" width="100%" />
 
 </a>
 
@@ -52,7 +52,7 @@ estudio:    Ingeniería · Universidad Libre · Miembro IEEE
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JuanDres7&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=0EA5E9&currStreakLabel=8B5CF6" />
+<img src="https://streak-stats.demolab.com?user=JuanDres7&hide_border=true&background=0D1117&stroke=EA580C&ring=F97316&fire=DC2626&currStreakNum=FFFFFF&currStreakLabel=F97316&sideNums=FB923C&sideLabels=FDBA74&dates=8B8B8B" />
 
 </div>
 
@@ -70,12 +70,12 @@ estudio:    Ingeniería · Universidad Libre · Miembro IEEE
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDres7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=0EA5E9&point=ffffff&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDres7&hide_border=true&bg_color=0D1117&color=F97316&line=DC2626&point=FFFFFF&area=true&area_color=F97316&title_color=F97316" width="100%" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:EA580C,100:F97316&height=120&section=footer" width="100%" />
 
 </div>
