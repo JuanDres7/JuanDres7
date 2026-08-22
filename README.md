@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0EA5E9&height=200&section=header&text=Juan%20Mercado&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingenier%C3%ADa%20%C2%B7%20Software%20%C2%B7%20Dise%C3%B1o%203D&descAlignY=55&descSize=18" width="100%" />
 
-<a href="https://github.com/JuanDres7">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Estudiante+de+Ingenier%C3%ADa+%7C+Universidad+Libre;Python+%C2%B7+Flask+%C2%B7+Lua+%C2%B7+Blender;Construyo+cosas+que+se+usan%2C+no+solo+que+compilan" alt="Typing SVG" />
 </a>
 
 <br/>
