@@ -26,27 +26,32 @@ education:  Engineering · Universidad Libre · IEEE Member
 <div align="center">
 
 ### Frontend
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,vite,tailwindcss" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=2" width="45%" />
+<p><img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,vite,tailwindcss" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS" /></p>
+
+<p><img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=2" width="45%" /></p>
 
 ### Backend
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,nodejs,typescript,flask,fastapi,django" alt="Python, Java, Node.js, TypeScript, Flask, FastAPI, Django" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=2" width="45%" />
+<p><img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,nodejs,typescript,flask,fastapi,django" alt="Python, Java, Node.js, TypeScript, Flask, FastAPI, Django" /></p>
+
+<p><img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=2" width="45%" /></p>
 
 ### Databases & SaaS
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,supabase,sqlite,mysql,oracle" alt="PostgreSQL, Supabase, SQLite, MySQL, Oracle" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=2" width="45%" />
+<p><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,supabase,sqlite,mysql,oracle" alt="PostgreSQL, Supabase, SQLite, MySQL, Oracle" /></p>
+
+<p><img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=2" width="45%" /></p>
 
 ### Deployment
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,vercel,render" alt="Docker, Vercel, Render" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=2" width="45%" />
+<p><img src="https://go-skill-icons.vercel.app/api/icons?i=docker,vercel,render" alt="Docker, Vercel, Render" /></p>
+
+<p><img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=2" width="45%" /></p>
 
 ### Tools & Extra
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postman,git,figma,notion,obsidian,githubactions,arduino,vscode,cursor" alt="Postman, Git, Figma, Notion, Obsidian, GitHub Actions, Arduino, VS Code, Cursor" />
+
+<p><img src="https://go-skill-icons.vercel.app/api/icons?i=postman,git,figma,notion,obsidian,githubactions,arduino,vscode,cursor" alt="Postman, Git, Figma, Notion, Obsidian, GitHub Actions, Arduino, VS Code, Cursor" /></p>
 
 </div>
 
