@@ -11,9 +11,11 @@
 
 <br/>
 
-## About Me
+<div align="center">
 
 Computer Science student focused on workflow automation and AI-assisted development. I apply Loop Engineering and Spec-Driven Development to build tools that solve everyday problems.
+
+</div>
 
 <br/>
 
