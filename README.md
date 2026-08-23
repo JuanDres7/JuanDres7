@@ -29,10 +29,7 @@ education:  Engineering · Universidad Libre · IEEE Member
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,vite,tailwindcss" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS" />
 
 ### Backend
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,nodejs" alt="Python, Java, Node.js" />
-
-### Frameworks
-<img src="https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi,django" alt="Flask, FastAPI, Django" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,nodejs,typescript,flask,fastapi,django" alt="Python, Java, Node.js, TypeScript, Flask, FastAPI, Django" />
 
 ### Databases & SaaS
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,supabase,sqlite,mysql,oracle" alt="PostgreSQL, Supabase, SQLite, MySQL, Oracle" />
