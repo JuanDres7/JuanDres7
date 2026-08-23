@@ -26,10 +26,10 @@ education:  Engineering · Universidad Libre · IEEE Member
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwindcss" alt="HTML, CSS, JavaScript, React, Vite, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,tailwindcss" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=python,java" alt="Python, Java" />
+<img src="https://skillicons.dev/icons?i=python,java,nodejs" alt="Python, Java, Node.js" />
 
 ### Frameworks
 <img src="https://skillicons.dev/icons?i=flask,fastapi,django" alt="Flask, FastAPI, Django" />
@@ -37,8 +37,11 @@ education:  Engineering · Universidad Libre · IEEE Member
 ### Databases & SaaS
 <img src="https://skillicons.dev/icons?i=postgresql,supabase,sqlite,mysql" alt="PostgreSQL, Supabase, SQLite, MySQL" />
 
-### Tools & Deployment
-<img src="https://skillicons.dev/icons?i=git,githubactions,vercel" alt="Git, GitHub Actions, Vercel" />
+### Deployment
+<img src="https://skillicons.dev/icons?i=docker,vercel" alt="Docker, Vercel" />
+
+### Tools & Extra
+<img src="https://skillicons.dev/icons?i=postman,git,figma,notion,obsidian,githubactions,arduino,vscode" alt="Postman, Git, Figma, Notion, Obsidian, GitHub Actions, Arduino, VS Code" />
 
 </div>
 
