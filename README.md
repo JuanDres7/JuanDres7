@@ -9,7 +9,7 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=6" width="100%" />
 
 ## About Me
 
@@ -19,7 +19,7 @@ location:   Colombia
 education:  Engineering · Universidad Libre · IEEE Member
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=6" width="100%" />
 
 ## Stack
 
@@ -28,21 +28,29 @@ education:  Engineering · Universidad Libre · IEEE Member
 ### Frontend
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,vite,tailwindcss" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS" />
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=2" width="45%" />
+
 ### Backend
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,nodejs,typescript,flask,fastapi,django" alt="Python, Java, Node.js, TypeScript, Flask, FastAPI, Django" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=2" width="45%" />
 
 ### Databases & SaaS
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,supabase,sqlite,mysql,oracle" alt="PostgreSQL, Supabase, SQLite, MySQL, Oracle" />
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=2" width="45%" />
+
 ### Deployment
 <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,vercel,render" alt="Docker, Vercel, Render" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=2" width="45%" />
 
 ### Tools & Extra
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,git,figma,notion,obsidian,githubactions,arduino,vscode,cursor" alt="Postman, Git, Figma, Notion, Obsidian, GitHub Actions, Arduino, VS Code, Cursor" />
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=6" width="100%" />
 
 ## Statistics
 
@@ -52,7 +60,7 @@ education:  Engineering · Universidad Libre · IEEE Member
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=6" width="100%" />
 
 ## Contributions
 
