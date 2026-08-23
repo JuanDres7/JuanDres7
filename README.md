@@ -26,22 +26,22 @@ education:  Engineering · Universidad Libre · IEEE Member
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,tailwindcss" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,vite,tailwindcss" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=python,java,nodejs" alt="Python, Java, Node.js" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,nodejs" alt="Python, Java, Node.js" />
 
 ### Frameworks
-<img src="https://skillicons.dev/icons?i=flask,fastapi,django" alt="Flask, FastAPI, Django" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi,django" alt="Flask, FastAPI, Django" />
 
 ### Databases & SaaS
-<img src="https://skillicons.dev/icons?i=postgresql,supabase,sqlite,mysql" alt="PostgreSQL, Supabase, SQLite, MySQL" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,supabase,sqlite,mysql,oracle" alt="PostgreSQL, Supabase, SQLite, MySQL, Oracle" />
 
 ### Deployment
-<img src="https://skillicons.dev/icons?i=docker,vercel" alt="Docker, Vercel" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,vercel,render" alt="Docker, Vercel, Render" />
 
 ### Tools & Extra
-<img src="https://skillicons.dev/icons?i=postman,git,figma,notion,obsidian,githubactions,arduino,vscode" alt="Postman, Git, Figma, Notion, Obsidian, GitHub Actions, Arduino, VS Code" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postman,git,figma,notion,obsidian,githubactions,arduino,vscode,cursor" alt="Postman, Git, Figma, Notion, Obsidian, GitHub Actions, Arduino, VS Code, Cursor" />
 
 </div>
 
