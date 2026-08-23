@@ -9,7 +9,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=6" width="100%" />
+<br/>
 
 ## About Me
 
@@ -19,7 +19,7 @@ location:   Colombia
 education:  Engineering · Universidad Libre · IEEE Member
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=6" width="100%" />
+<br/>
 
 ## Stack
 
@@ -55,7 +55,7 @@ education:  Engineering · Universidad Libre · IEEE Member
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=6" width="100%" />
+<br/>
 
 ## Statistics
 
@@ -65,7 +65,7 @@ education:  Engineering · Universidad Libre · IEEE Member
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,50:EA580C,100:DC2626&height=6" width="100%" />
+<br/>
 
 ## Contributions
 
