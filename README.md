@@ -13,11 +13,7 @@
 
 ## About Me
 
-```yaml
-name:       Juan Mercado
-location:   Colombia
-education:  Engineering · Universidad Libre · IEEE Member
-```
+Computer Science student focused on workflow automation and AI-assisted development. I apply Loop Engineering and Spec-Driven Development to build tools that solve everyday problems.
 
 <br/>
 
