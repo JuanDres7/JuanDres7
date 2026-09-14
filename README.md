@@ -77,7 +77,6 @@ Systems Engineering student focused on workflow automation and AI-assisted devel
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDres7&hide_border=true&bg_color=0D1117&color=F97316&line=DC2626&point=FFFFFF&area=true&area_color=F97316&title_color=F97316" width="100%" />
 
 <br/>
 
